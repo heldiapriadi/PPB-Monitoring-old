@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReminderPlus</string>
+    <string name="assigment_name">Assigment Name</string>
+    <string name="description">Description</string>
+</resources>
